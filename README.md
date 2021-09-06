@@ -1,7 +1,6 @@
 # KtorHttpRequest
-Bye Bye Retrofit .. 
 
-Now it's time to shift on Ktor for Http Request 
+Now it's time to shift on Ktor for Http Request ,Bye Bye Retrofit .. 
 
 i,e get,post,delete,update etc.. 
 
